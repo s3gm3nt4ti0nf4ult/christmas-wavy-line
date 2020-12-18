@@ -38,3 +38,9 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+
+.pio/*
+cmake-build-debug/*
+cmake-build-esp01_1m/*
+CMakeLists.txt
+CMakeListsPrivate.txt
